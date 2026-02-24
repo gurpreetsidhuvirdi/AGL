@@ -12,7 +12,7 @@ import "swiper/css/free-mode";
 /* ================= LOGO IMPORTS ================= */
 
 import cie from "../assets/logos/CIE_logo.png";
-import cummins from "../assets/logos/Cummins_Logo.png";
+import cummins from "../assets/logos/Cummins_logo.png";
 import johnDeere from "../assets/logos/john_deere_logo.png";
 import kirloskar from "../assets/logos/kirloskar_logo.png";
 import lear from "../assets/logos/Lear_Corporation_logo.png";
